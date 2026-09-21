@@ -16,6 +16,7 @@ import requests
 TENUP_API = "https://tenup.fft.fr/back/public/v1/tournois"
 TENUP_SEARCH = "https://tenup.fft.fr/recherche/tournois"
 STATE_FILE = Path("seen_tournaments_france.json")
+CURRENT_FILE = Path("current_tournaments_france.json")
 
 RADIUS_KM = 199
 SEARCH_DAYS = 365
@@ -159,6 +160,14 @@ def save_state(initialized: bool, ids: set[str]) -> None:
     )
 
 
+def save_current_tournaments(tournaments: list[dict[str, Any]]) -> None:
+    ordered = sorted(tournaments, key=lambda card: str(card.get("dateDebut", "")))
+    CURRENT_FILE.write_text(
+        json.dumps(ordered, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+
+
 def first_text(value: Any, default: str = "Non précisé") -> str:
     if value is None or value == "":
         return default
@@ -236,6 +245,7 @@ def main() -> int:
         )
 
     tournaments = fetch_all_tournaments()
+    save_current_tournaments(tournaments)
     current_ids = {tournament_id(card) for card in tournaments}
     initialized, seen = load_state()
 
