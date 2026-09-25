@@ -170,6 +170,30 @@
   },
   {
     "club": {
+      "code": "51890150",
+      "lat": 47.88079,
+      "libelle": "APPOIGNY E.S.",
+      "lng": 3.531903
+    },
+    "dateDebut": "2026-10-03",
+    "dateFin": "2026-10-04",
+    "distance": 129115.234,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82686674",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT250 MIXTE ET U14 ET U18",
+    "naturesEpreuves": [
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "APPOIGNY"
+  },
+  {
+    "club": {
       "code": "51210383",
       "lat": 47.329872,
       "libelle": "BEACH TENNIS DIJON",
