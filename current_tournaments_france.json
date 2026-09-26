@@ -458,6 +458,52 @@
   },
   {
     "club": {
+      "code": "62130391",
+      "lat": 43.38408,
+      "libelle": "TENNIS CLUB PEYPIN",
+      "lng": 5.580274
+    },
+    "dateDebut": "2026-10-24",
+    "dateFin": "2026-10-24",
+    "distance": 140303.1,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82685680",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "PEYPIN EN ROSE - MIXTE BT 100",
+    "naturesEpreuves": [
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "PEYPIN"
+  },
+  {
+    "club": {
+      "code": "62840072",
+      "lat": 43.694275,
+      "libelle": "TENNIS CLUB PERTUIS",
+      "lng": 5.501843
+    },
+    "dateDebut": "2026-10-31",
+    "dateFin": "2026-10-31",
+    "distance": 141502.86,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82684997",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 250 MIXTE OCTOBRE ROSE PERTUIS",
+    "naturesEpreuves": [
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "PERTUIS"
+  },
+  {
+    "club": {
       "code": "50260193",
       "lat": 44.827305,
       "libelle": "MONTMEYRAN TC",
@@ -478,6 +524,29 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "MONTMEYRAN"
+  },
+  {
+    "club": {
+      "code": "62840072",
+      "lat": 43.694275,
+      "libelle": "TENNIS CLUB PERTUIS",
+      "lng": 5.501843
+    },
+    "dateDebut": "2026-11-01",
+    "dateFin": "2026-11-01",
+    "distance": 141502.86,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82684974",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 250 DAMES OCTOBRE ROSE PERTUIS",
+    "naturesEpreuves": [
+      "DD"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "PERTUIS"
   },
   {
     "club": {
@@ -504,6 +573,29 @@
   },
   {
     "club": {
+      "code": "62840072",
+      "lat": 43.694275,
+      "libelle": "TENNIS CLUB PERTUIS",
+      "lng": 5.501843
+    },
+    "dateDebut": "2026-11-21",
+    "dateFin": "2026-11-21",
+    "distance": 141502.86,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82684999",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 250 HOMMES MOUSTACHE PERTUIS",
+    "naturesEpreuves": [
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "PERTUIS"
+  },
+  {
+    "club": {
       "code": "50260193",
       "lat": 44.827305,
       "libelle": "MONTMEYRAN TC",
@@ -525,5 +617,120 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "MONTMEYRAN"
+  },
+  {
+    "club": {
+      "code": "62840072",
+      "lat": 43.694275,
+      "libelle": "TENNIS CLUB PERTUIS",
+      "lng": 5.501843
+    },
+    "dateDebut": "2027-01-30",
+    "dateFin": "2027-01-30",
+    "distance": 141502.86,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82685001",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 250 HOMMES OVER 45 PERTUIS",
+    "naturesEpreuves": [
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "PERTUIS"
+  },
+  {
+    "club": {
+      "code": "62840072",
+      "lat": 43.694275,
+      "libelle": "TENNIS CLUB PERTUIS",
+      "lng": 5.501843
+    },
+    "dateDebut": "2027-01-31",
+    "dateFin": "2027-01-31",
+    "distance": 141502.86,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82685000",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 250 DAMES OVER 45 PERTUIS",
+    "naturesEpreuves": [
+      "DD"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "PERTUIS"
+  },
+  {
+    "club": {
+      "code": "62840072",
+      "lat": 43.694275,
+      "libelle": "TENNIS CLUB PERTUIS",
+      "lng": 5.501843
+    },
+    "dateDebut": "2027-05-01",
+    "dateFin": "2027-05-01",
+    "distance": 141502.86,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82685007",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 250 HOMMES PERTUIS",
+    "naturesEpreuves": [
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "PERTUIS"
+  },
+  {
+    "club": {
+      "code": "62840072",
+      "lat": 43.694275,
+      "libelle": "TENNIS CLUB PERTUIS",
+      "lng": 5.501843
+    },
+    "dateDebut": "2027-05-02",
+    "dateFin": "2027-05-02",
+    "distance": 141502.86,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82685004",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 250 DAMES PERTUIS",
+    "naturesEpreuves": [
+      "DD"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "PERTUIS"
+  },
+  {
+    "club": {
+      "code": "62840072",
+      "lat": 43.694275,
+      "libelle": "TENNIS CLUB PERTUIS",
+      "lng": 5.501843
+    },
+    "dateDebut": "2027-06-18",
+    "dateFin": "2027-06-18",
+    "distance": 141502.86,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82685002",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 250 APERO MIXTE PERTUIS",
+    "naturesEpreuves": [
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "PERTUIS"
   }
 ]
