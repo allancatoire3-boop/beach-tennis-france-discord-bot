@@ -404,6 +404,30 @@
   },
   {
     "club": {
+      "code": "51890046",
+      "lat": 47.975513,
+      "libelle": "JOIGNY U.S.",
+      "lng": 3.419903
+    },
+    "dateDebut": "2026-11-14",
+    "dateFin": "2026-11-14",
+    "distance": 141544.55,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82686016",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournoi Movember Joigny",
+    "naturesEpreuves": [
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "JOIGNY"
+  },
+  {
+    "club": {
       "code": "62840072",
       "lat": 43.694275,
       "libelle": "TENNIS CLUB PERTUIS",
@@ -424,6 +448,31 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "PERTUIS"
+  },
+  {
+    "club": {
+      "code": "51890046",
+      "lat": 47.975513,
+      "libelle": "JOIGNY U.S.",
+      "lng": 3.419903
+    },
+    "dateDebut": "2026-12-12",
+    "dateFin": "2026-12-12",
+    "distance": 141544.55,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82686026",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournoi Beach Raclette",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "JOIGNY"
   },
   {
     "club": {
