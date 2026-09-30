@@ -476,6 +476,30 @@
   },
   {
     "club": {
+      "code": "62830459",
+      "lat": 43.107178,
+      "libelle": "BEACH TENNIS VAROIS",
+      "lng": 5.950264
+    },
+    "dateDebut": "2026-12-12",
+    "dateFin": "2026-12-12",
+    "distance": 125393.14,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82686794",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT250 de la Mère Noël",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "TOULON"
+  },
+  {
+    "club": {
       "code": "50260193",
       "lat": 44.827305,
       "libelle": "MONTMEYRAN TC",
