@@ -121,6 +121,29 @@
   },
   {
     "club": {
+      "code": "50070338",
+      "lat": 45.27846,
+      "libelle": "BOULIEU ST CLAIR TC",
+      "lng": 4.679461
+    },
+    "dateDebut": "2026-10-10",
+    "dateFin": "2026-10-10",
+    "distance": 196077.5,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82686798",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT25",
+    "naturesEpreuves": [
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "ST CLAIR"
+  },
+  {
+    "club": {
       "code": "60110002",
       "lat": 43.18411,
       "libelle": "ASS NARBONNAISE DE TENNIS",
