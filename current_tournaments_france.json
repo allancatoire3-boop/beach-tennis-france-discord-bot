@@ -218,6 +218,30 @@
   },
   {
     "club": {
+      "code": "59330050",
+      "lat": 44.77954,
+      "libelle": "COQS ROUGES",
+      "lng": -0.628651
+    },
+    "dateDebut": "2026-10-17",
+    "dateFin": "2026-10-17",
+    "distance": 166344.1,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82683195",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 100 COQS ROUGES BEACH TENNIS",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "GRADIGNAN"
+  },
+  {
+    "club": {
       "code": "50260407",
       "lat": 45.0721,
       "libelle": "MOURS ST EUSEBE TC",
@@ -450,6 +474,30 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "PERTUIS"
+  },
+  {
+    "club": {
+      "code": "59330050",
+      "lat": 44.77954,
+      "libelle": "COQS ROUGES",
+      "lng": -0.628651
+    },
+    "dateDebut": "2026-11-07",
+    "dateFin": "2026-11-07",
+    "distance": 166344.1,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82683199",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 250 COQS ROUGES BEACH TENNIS",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "GRADIGNAN"
   },
   {
     "club": {
