@@ -476,6 +476,30 @@
   },
   {
     "club": {
+      "code": "62130004",
+      "lat": 43.300587,
+      "libelle": "TENNIS PARK MARSEILLE",
+      "lng": 5.49311
+    },
+    "dateDebut": "2026-11-21",
+    "dateFin": "2026-11-22",
+    "distance": 149753.22,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82689519",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "En novembre, beach au Park",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "MARSEILLE"
+  },
+  {
+    "club": {
       "code": "51890046",
       "lat": 47.975513,
       "libelle": "JOIGNY U.S.",
@@ -595,6 +619,31 @@
   },
   {
     "club": {
+      "code": "62060460",
+      "lat": 43.80081,
+      "libelle": "DYNAMIC'SPORT",
+      "lng": 7.27126
+    },
+    "dateDebut": "2027-04-11",
+    "dateFin": "2027-04-11",
+    "distance": 10102.798,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82688674",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT DYNAMIC",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "Tourrettes-Levens"
+  },
+  {
+    "club": {
       "code": "62840072",
       "lat": 43.694275,
       "libelle": "TENNIS CLUB PERTUIS",
@@ -638,6 +687,56 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "PERTUIS"
+  },
+  {
+    "club": {
+      "code": "62060460",
+      "lat": 43.80081,
+      "libelle": "DYNAMIC'SPORT",
+      "lng": 7.27126
+    },
+    "dateDebut": "2027-05-23",
+    "dateFin": "2027-05-23",
+    "distance": 10102.798,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82688677",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT DYNAMIC",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "Tourrettes-Levens"
+  },
+  {
+    "club": {
+      "code": "62060460",
+      "lat": 43.80081,
+      "libelle": "DYNAMIC'SPORT",
+      "lng": 7.27126
+    },
+    "dateDebut": "2027-06-13",
+    "dateFin": "2027-06-13",
+    "distance": 10102.798,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82688678",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT DYNAMIC",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "Tourrettes-Levens"
   },
   {
     "club": {
