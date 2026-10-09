@@ -171,6 +171,30 @@
   },
   {
     "club": {
+      "code": "62130004",
+      "lat": 43.300587,
+      "libelle": "TENNIS PARK MARSEILLE",
+      "lng": 5.49311
+    },
+    "dateDebut": "2026-10-17",
+    "dateFin": "2026-10-17",
+    "distance": 149753.22,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82691000",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Beach en automne au Tennis Park ",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "MARSEILLE"
+  },
+  {
+    "club": {
       "code": "61720353",
       "lat": 47.700954,
       "libelle": "TC FLECHOIS",
@@ -238,6 +262,31 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "MARSEILLE 09"
+  },
+  {
+    "club": {
+      "code": "60110002",
+      "lat": 43.18411,
+      "libelle": "ASS NARBONNAISE DE TENNIS",
+      "lng": 2.976055
+    },
+    "dateDebut": "2026-10-23",
+    "dateFin": "2026-11-15",
+    "distance": 194298.89,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82690314",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 250  DD et DM",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "NARBONNE"
   },
   {
     "club": {
@@ -497,6 +546,29 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "MARSEILLE"
+  },
+  {
+    "club": {
+      "code": "62130611",
+      "lat": 43.25511,
+      "libelle": "BEACH TENNIS MARSEILLE",
+      "lng": 5.4051
+    },
+    "dateDebut": "2026-12-06",
+    "dateFin": "2026-12-06",
+    "distance": 158128.12,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82690840",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT250 Mixte Desautel Marseille (Après-midi)",
+    "naturesEpreuves": [
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "MARSEILLE 09"
   },
   {
     "club": {
