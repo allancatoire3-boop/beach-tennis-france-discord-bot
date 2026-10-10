@@ -270,6 +270,29 @@
       "libelle": "ASS NARBONNAISE DE TENNIS",
       "lng": 2.976055
     },
+    "dateDebut": "2026-10-22",
+    "dateFin": "2026-10-22",
+    "distance": 194298.89,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82691237",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournois Jeunes",
+    "naturesEpreuves": [
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "NARBONNE"
+  },
+  {
+    "club": {
+      "code": "60110002",
+      "lat": 43.18411,
+      "libelle": "ASS NARBONNAISE DE TENNIS",
+      "lng": 2.976055
+    },
     "dateDebut": "2026-10-23",
     "dateFin": "2026-11-15",
     "distance": 194298.89,
