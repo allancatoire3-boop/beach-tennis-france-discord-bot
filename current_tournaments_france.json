@@ -50,29 +50,6 @@
   },
   {
     "club": {
-      "code": "50070338",
-      "lat": 45.27846,
-      "libelle": "BOULIEU ST CLAIR TC",
-      "lng": 4.679461
-    },
-    "dateDebut": "2026-10-10",
-    "dateFin": "2026-10-10",
-    "distance": 196077.5,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82686798",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "BT25",
-    "naturesEpreuves": [
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "BEACH",
-    "tournoiInterne": null,
-    "ville": "ST CLAIR"
-  },
-  {
-    "club": {
       "code": "542B0721",
       "lat": 42.64291,
       "libelle": "MARANA BEACH TENNIS",
@@ -171,6 +148,29 @@
   },
   {
     "club": {
+      "code": "50070338",
+      "lat": 45.27846,
+      "libelle": "BOULIEU ST CLAIR TC",
+      "lng": 4.679461
+    },
+    "dateDebut": "2026-10-17",
+    "dateFin": "2026-10-17",
+    "distance": 196077.5,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82689169",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT25 Senior",
+    "naturesEpreuves": [
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "ST CLAIR"
+  },
+  {
+    "club": {
       "code": "62130004",
       "lat": 43.300587,
       "libelle": "TENNIS PARK MARSEILLE",
@@ -262,6 +262,29 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "MARSEILLE 09"
+  },
+  {
+    "club": {
+      "code": "50260193",
+      "lat": 44.827305,
+      "libelle": "MONTMEYRAN TC",
+      "lng": 4.978972
+    },
+    "dateDebut": "2026-10-20",
+    "dateFin": "2026-10-20",
+    "distance": 173058.25,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82687949",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "TOURNOI BT 25 Jeunes",
+    "naturesEpreuves": [
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "MONTMEYRAN"
   },
   {
     "club": {
@@ -382,6 +405,52 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "PEYPIN"
+  },
+  {
+    "club": {
+      "code": "50260193",
+      "lat": 44.827305,
+      "libelle": "MONTMEYRAN TC",
+      "lng": 4.978972
+    },
+    "dateDebut": "2026-10-26",
+    "dateFin": "2026-10-26",
+    "distance": 173058.25,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82688657",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 100 Jeunes",
+    "naturesEpreuves": [
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "MONTMEYRAN"
+  },
+  {
+    "club": {
+      "code": "50260193",
+      "lat": 44.827305,
+      "libelle": "MONTMEYRAN TC",
+      "lng": 4.978972
+    },
+    "dateDebut": "2026-10-28",
+    "dateFin": "2026-10-28",
+    "distance": 173058.25,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82687952",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 25 Jeunes",
+    "naturesEpreuves": [
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "MONTMEYRAN"
   },
   {
     "club": {
