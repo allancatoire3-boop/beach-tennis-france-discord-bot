@@ -558,6 +558,7 @@
     "inscriptionEnLigne": false,
     "libelleTournoi": "Tournoi Movember Joigny",
     "naturesEpreuves": [
+      "DD",
       "DM",
       "DX"
     ],
