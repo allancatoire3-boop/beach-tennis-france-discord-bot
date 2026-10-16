@@ -521,6 +521,30 @@
   },
   {
     "club": {
+      "code": "62060463",
+      "lat": 43.754135,
+      "libelle": "BEACH TENNIS COTE D'AZUR",
+      "lng": 7.301491
+    },
+    "dateDebut": "2026-11-07",
+    "dateFin": "2026-11-08",
+    "distance": 5825.3364,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82694011",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 250 pour OCTOBRE ROSE ",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "NICE"
+  },
+  {
+    "club": {
       "code": "62130611",
       "lat": 43.25511,
       "libelle": "BEACH TENNIS MARSEILLE",
@@ -541,6 +565,30 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "MARSEILLE 09"
+  },
+  {
+    "club": {
+      "code": "53450783",
+      "lat": 47.886395,
+      "libelle": "BEACH TENNIS CLUB ORLEANS",
+      "lng": 1.871072
+    },
+    "dateDebut": "2026-11-11",
+    "dateFin": "2026-11-11",
+    "distance": 104380.68,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82684311",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournoi interne BTCO/AST",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "St Pryve st Mesmin"
   },
   {
     "club": {
