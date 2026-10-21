@@ -26,29 +26,6 @@
   },
   {
     "club": {
-      "code": "50260193",
-      "lat": 44.827305,
-      "libelle": "MONTMEYRAN TC",
-      "lng": 4.978972
-    },
-    "dateDebut": "2026-10-20",
-    "dateFin": "2026-10-20",
-    "distance": 173058.25,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82687949",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "TOURNOI BT 25 Jeunes",
-    "naturesEpreuves": [
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "BEACH",
-    "tournoiInterne": null,
-    "ville": "MONTMEYRAN"
-  },
-  {
-    "club": {
       "code": "60110002",
       "lat": 43.18411,
       "libelle": "ASS NARBONNAISE DE TENNIS",
