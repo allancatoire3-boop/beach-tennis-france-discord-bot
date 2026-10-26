@@ -26,55 +26,6 @@
   },
   {
     "club": {
-      "code": "57770482",
-      "lat": 48.852776,
-      "libelle": "CHAMPS SUR MARNE TC",
-      "lng": 2.602651
-    },
-    "dateDebut": "2026-10-24",
-    "dateFin": "2026-10-25",
-    "distance": 117369.62,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82681257",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "BT500 Automne Champs/Marne",
-    "naturesEpreuves": [
-      "DD",
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "BEACH",
-    "tournoiInterne": null,
-    "ville": "CHAMPS SUR MARNE"
-  },
-  {
-    "club": {
-      "code": "51890044",
-      "lat": 47.77925,
-      "libelle": "AUXERRE A.J.",
-      "lng": 3.6033
-    },
-    "dateDebut": "2026-10-24",
-    "dateFin": "2026-10-25",
-    "distance": 191525.27,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82683187",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "BT250 Club Vert Auxerre ",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "BEACH",
-    "tournoiInterne": null,
-    "ville": "AUXERRE"
-  },
-  {
-    "club": {
       "code": "50260193",
       "lat": 44.827305,
       "libelle": "MONTMEYRAN TC",
