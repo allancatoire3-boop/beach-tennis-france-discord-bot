@@ -26,74 +26,26 @@
   },
   {
     "club": {
-      "code": "542B0721",
-      "lat": 42.64291,
-      "libelle": "MARANA BEACH TENNIS",
-      "lng": 9.459971
+      "code": "57770482",
+      "lat": 48.852776,
+      "libelle": "CHAMPS SUR MARNE TC",
+      "lng": 2.602651
     },
-    "dateDebut": "2026-10-31",
-    "dateFin": "2026-11-01",
-    "distance": 6093.206,
+    "dateDebut": "2026-10-30",
+    "dateFin": "2027-08-30",
+    "distance": 117369.62,
     "favori": false,
     "idFavori": null,
-    "idHomologation": "FED_82691711",
+    "idHomologation": "FED_82702429",
     "inscriptionEnLigne": false,
-    "libelleTournoi": "TOURNOI HALLOWEEN",
+    "libelleTournoi": "BT25 stage toussaint TC. champs",
     "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
+      "DM"
     ],
     "paiementEnLigne": false,
     "pratique": "BEACH",
     "tournoiInterne": null,
-    "ville": "FURIANI"
-  },
-  {
-    "club": {
-      "code": "50260193",
-      "lat": 44.827305,
-      "libelle": "MONTMEYRAN TC",
-      "lng": 4.978972
-    },
-    "dateDebut": "2026-11-01",
-    "dateFin": "2026-11-01",
-    "distance": 173058.25,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82679038",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "BT 250 Mixte - Dimanche 1er Novembre",
-    "naturesEpreuves": [
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "BEACH",
-    "tournoiInterne": null,
-    "ville": "MONTMEYRAN"
-  },
-  {
-    "club": {
-      "code": "62840072",
-      "lat": 43.694275,
-      "libelle": "TENNIS CLUB PERTUIS",
-      "lng": 5.501843
-    },
-    "dateDebut": "2026-11-01",
-    "dateFin": "2026-11-01",
-    "distance": 141502.86,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82684974",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "BT 250 DAMES OCTOBRE ROSE PERTUIS",
-    "naturesEpreuves": [
-      "DD"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "BEACH",
-    "tournoiInterne": null,
-    "ville": "PERTUIS"
+    "ville": "CHAMPS SUR MARNE"
   },
   {
     "club": {
@@ -310,30 +262,6 @@
   },
   {
     "club": {
-      "code": "62130391",
-      "lat": 43.38408,
-      "libelle": "TENNIS CLUB PEYPIN",
-      "lng": 5.580274
-    },
-    "dateDebut": "2026-11-21",
-    "dateFin": "2026-11-22",
-    "distance": 140303.1,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82699484",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "BT 100 MOUSTACHE PEYPIN",
-    "naturesEpreuves": [
-      "DD",
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "BEACH",
-    "tournoiInterne": null,
-    "ville": "PEYPIN"
-  },
-  {
-    "club": {
       "code": "62130611",
       "lat": 43.25511,
       "libelle": "BEACH TENNIS MARSEILLE",
@@ -379,6 +307,31 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "JOIGNY"
+  },
+  {
+    "club": {
+      "code": "60110002",
+      "lat": 43.18411,
+      "libelle": "ASS NARBONNAISE DE TENNIS",
+      "lng": 2.976055
+    },
+    "dateDebut": "2026-12-12",
+    "dateFin": "2027-01-30",
+    "distance": 194298.89,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82699625",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 100 HIVER ANT",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "NARBONNE"
   },
   {
     "club": {
@@ -476,6 +429,31 @@
   },
   {
     "club": {
+      "code": "60110002",
+      "lat": 43.18411,
+      "libelle": "ASS NARBONNAISE DE TENNIS",
+      "lng": 2.976055
+    },
+    "dateDebut": "2027-02-27",
+    "dateFin": "2027-03-06",
+    "distance": 194298.89,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82699626",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 100 DE FEVRIER ET MARS",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "NARBONNE"
+  },
+  {
+    "club": {
       "code": "62060460",
       "lat": 43.80081,
       "libelle": "DYNAMIC'SPORT",
@@ -521,6 +499,31 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "PERTUIS"
+  },
+  {
+    "club": {
+      "code": "60110002",
+      "lat": 43.18411,
+      "libelle": "ASS NARBONNAISE DE TENNIS",
+      "lng": 2.976055
+    },
+    "dateDebut": "2027-05-01",
+    "dateFin": "2027-05-28",
+    "distance": 194298.89,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82699628",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 250 MAI ANT",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "NARBONNE"
   },
   {
     "club": {
