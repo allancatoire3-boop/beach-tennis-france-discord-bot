@@ -49,6 +49,31 @@
   },
   {
     "club": {
+      "code": "542B0721",
+      "lat": 42.64291,
+      "libelle": "MARANA BEACH TENNIS",
+      "lng": 9.459971
+    },
+    "dateDebut": "2026-10-31",
+    "dateFin": "2026-11-11",
+    "distance": 6093.206,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82691711",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "TOURNOI HALLOWEEN",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "FURIANI"
+  },
+  {
+    "club": {
       "code": "59330050",
       "lat": 44.77954,
       "libelle": "COQS ROUGES",
@@ -259,6 +284,30 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "MARSEILLE"
+  },
+  {
+    "club": {
+      "code": "62130391",
+      "lat": 43.38408,
+      "libelle": "TENNIS CLUB PEYPIN",
+      "lng": 5.580274
+    },
+    "dateDebut": "2026-11-28",
+    "dateFin": "2026-11-29",
+    "distance": 140303.1,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82699484",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 100 MOUSTACHE PEYPIN",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "PEYPIN"
   },
   {
     "club": {
