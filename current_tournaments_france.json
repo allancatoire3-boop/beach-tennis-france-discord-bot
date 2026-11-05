@@ -528,6 +528,30 @@
   },
   {
     "club": {
+      "code": "50L00260",
+      "lat": 44.91984,
+      "libelle": "COMITE DROME TENNIS",
+      "lng": 4.921487
+    },
+    "dateDebut": "2027-05-01",
+    "dateFin": "2027-05-02",
+    "distance": 184021.17,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82694041",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 1000 - OPEN BT Drome Ardèche",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "VALENCE"
+  },
+  {
+    "club": {
       "code": "62840072",
       "lat": 43.694275,
       "libelle": "TENNIS CLUB PERTUIS",
