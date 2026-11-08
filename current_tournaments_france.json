@@ -74,53 +74,6 @@
   },
   {
     "club": {
-      "code": "59330050",
-      "lat": 44.77954,
-      "libelle": "COQS ROUGES",
-      "lng": -0.628651
-    },
-    "dateDebut": "2026-11-07",
-    "dateFin": "2026-11-07",
-    "distance": 166344.1,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82683199",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "BT 250 COQS ROUGES BEACH TENNIS",
-    "naturesEpreuves": [
-      "DD",
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "BEACH",
-    "tournoiInterne": null,
-    "ville": "GRADIGNAN"
-  },
-  {
-    "club": {
-      "code": "60340701",
-      "lat": 43.527554,
-      "libelle": "PALAVAS BEACH TENNIS",
-      "lng": 3.932866
-    },
-    "dateDebut": "2026-11-07",
-    "dateFin": "2026-11-07",
-    "distance": 118876.85,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82690492",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "BT250 NOV",
-    "naturesEpreuves": [
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "BEACH",
-    "tournoiInterne": null,
-    "ville": "PALAVAS LES FLOTS"
-  },
-  {
-    "club": {
       "code": "62060463",
       "lat": 43.754135,
       "libelle": "BEACH TENNIS COTE D'AZUR",
