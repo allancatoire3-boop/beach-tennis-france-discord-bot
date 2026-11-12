@@ -49,55 +49,6 @@
   },
   {
     "club": {
-      "code": "542B0721",
-      "lat": 42.64291,
-      "libelle": "MARANA BEACH TENNIS",
-      "lng": 9.459971
-    },
-    "dateDebut": "2026-10-31",
-    "dateFin": "2026-11-11",
-    "distance": 6093.206,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82691711",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "TOURNOI HALLOWEEN",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "BEACH",
-    "tournoiInterne": null,
-    "ville": "FURIANI"
-  },
-  {
-    "club": {
-      "code": "53450783",
-      "lat": 47.886395,
-      "libelle": "BEACH TENNIS CLUB ORLEANS",
-      "lng": 1.871072
-    },
-    "dateDebut": "2026-11-11",
-    "dateFin": "2026-11-11",
-    "distance": 104380.68,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82684311",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Tournoi interne BTCO/AST",
-    "naturesEpreuves": [
-      "DD",
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "BEACH",
-    "tournoiInterne": null,
-    "ville": "St Pryve st Mesmin"
-  },
-  {
-    "club": {
       "code": "51890046",
       "lat": 47.975513,
       "libelle": "JOIGNY U.S.",
@@ -314,6 +265,29 @@
   },
   {
     "club": {
+      "code": "52L01000",
+      "lat": 48.201687,
+      "libelle": "LIGUE BRETAGNE TENNIS",
+      "lng": -1.734302
+    },
+    "dateDebut": "2026-12-20",
+    "dateFin": "2026-12-20",
+    "distance": 110169.36,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82707910",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "WINTER BEACH #1",
+    "naturesEpreuves": [
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "LA MEZIERE"
+  },
+  {
+    "club": {
       "code": "50260193",
       "lat": 44.827305,
       "libelle": "MONTMEYRAN TC",
@@ -381,6 +355,29 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "PERTUIS"
+  },
+  {
+    "club": {
+      "code": "52L01000",
+      "lat": 48.201687,
+      "libelle": "LIGUE BRETAGNE TENNIS",
+      "lng": -1.734302
+    },
+    "dateDebut": "2027-02-21",
+    "dateFin": "2027-02-21",
+    "distance": 110169.36,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82707917",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "WINTER BEACH #2",
+    "naturesEpreuves": [
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "LA MEZIERE"
   },
   {
     "club": {
