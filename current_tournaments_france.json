@@ -312,6 +312,29 @@
   },
   {
     "club": {
+      "code": "57770045",
+      "lat": 48.396294,
+      "libelle": "CHAMPAGNE SUR SEINE TENNIS CLUB",
+      "lng": 2.791817
+    },
+    "dateDebut": "2027-01-10",
+    "dateFin": "2027-01-10",
+    "distance": 192590.42,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82703443",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT250 MIXTE BONNE ANNEE",
+    "naturesEpreuves": [
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "CHAMPAGNE SUR SEINE"
+  },
+  {
+    "club": {
       "code": "62840072",
       "lat": 43.694275,
       "libelle": "TENNIS CLUB PERTUIS",
@@ -355,6 +378,30 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "PERTUIS"
+  },
+  {
+    "club": {
+      "code": "57770045",
+      "lat": 48.396294,
+      "libelle": "CHAMPAGNE SUR SEINE TENNIS CLUB",
+      "lng": 2.791817
+    },
+    "dateDebut": "2027-02-20",
+    "dateFin": "2027-02-21",
+    "distance": 192590.42,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82703448",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT250 St VALENTIN ",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "CHAMPAGNE SUR SEINE"
   },
   {
     "club": {
@@ -428,6 +475,30 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "Tourrettes-Levens"
+  },
+  {
+    "club": {
+      "code": "51210383",
+      "lat": 47.329872,
+      "libelle": "BEACH TENNIS DIJON",
+      "lng": 4.998089
+    },
+    "dateDebut": "2027-04-25",
+    "dateFin": "2027-04-25",
+    "distance": 174559.45,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82702460",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournois Présidentiels",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "DIJON"
   },
   {
     "club": {
@@ -551,6 +622,29 @@
   },
   {
     "club": {
+      "code": "51210383",
+      "lat": 47.329872,
+      "libelle": "BEACH TENNIS DIJON",
+      "lng": 4.998089
+    },
+    "dateDebut": "2027-05-30",
+    "dateFin": "2027-05-30",
+    "distance": 174559.45,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82702586",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournoi Interne",
+    "naturesEpreuves": [
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "DIJON"
+  },
+  {
+    "club": {
       "code": "62060460",
       "lat": 43.80081,
       "libelle": "DYNAMIC'SPORT",
@@ -596,5 +690,77 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "PERTUIS"
+  },
+  {
+    "club": {
+      "code": "51210383",
+      "lat": 47.329872,
+      "libelle": "BEACH TENNIS DIJON",
+      "lng": 4.998089
+    },
+    "dateDebut": "2027-06-19",
+    "dateFin": "2027-06-19",
+    "distance": 174559.45,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82702590",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournoi \"Fête de l'été\"",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "DIJON"
+  },
+  {
+    "club": {
+      "code": "51210383",
+      "lat": 47.329872,
+      "libelle": "BEACH TENNIS DIJON",
+      "lng": 4.998089
+    },
+    "dateDebut": "2027-07-04",
+    "dateFin": "2027-07-04",
+    "distance": 174559.45,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82702587",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournoi des vacanciers",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "DIJON"
+  },
+  {
+    "club": {
+      "code": "51210383",
+      "lat": 47.329872,
+      "libelle": "BEACH TENNIS DIJON",
+      "lng": 4.998089
+    },
+    "dateDebut": "2027-08-22",
+    "dateFin": "2027-08-22",
+    "distance": 174559.45,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82702589",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournoi \"clap de fin\"",
+    "naturesEpreuves": [
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "DIJON"
   }
 ]
