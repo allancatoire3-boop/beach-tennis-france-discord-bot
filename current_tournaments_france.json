@@ -1,31 +1,6 @@
 [
   {
     "club": {
-      "code": "60110002",
-      "lat": 43.18411,
-      "libelle": "ASS NARBONNAISE DE TENNIS",
-      "lng": 2.976055
-    },
-    "dateDebut": "2026-10-23",
-    "dateFin": "2026-11-15",
-    "distance": 194298.89,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82690314",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "BT 250  DD et DM",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "BEACH",
-    "tournoiInterne": null,
-    "ville": "NARBONNE"
-  },
-  {
-    "club": {
       "code": "57770482",
       "lat": 48.852776,
       "libelle": "CHAMPS SUR MARNE TC",
@@ -46,29 +21,6 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "CHAMPS SUR MARNE"
-  },
-  {
-    "club": {
-      "code": "542B0721",
-      "lat": 42.64291,
-      "libelle": "MARANA BEACH TENNIS",
-      "lng": 9.459971
-    },
-    "dateDebut": "2026-11-14",
-    "dateFin": "2026-11-15",
-    "distance": 6093.206,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82694088",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "BT 500 Mixte - Marana BT",
-    "naturesEpreuves": [
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "BEACH",
-    "tournoiInterne": null,
-    "ville": "FURIANI"
   },
   {
     "club": {
