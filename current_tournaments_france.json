@@ -24,29 +24,6 @@
   },
   {
     "club": {
-      "code": "62840072",
-      "lat": 43.694275,
-      "libelle": "TENNIS CLUB PERTUIS",
-      "lng": 5.501843
-    },
-    "dateDebut": "2026-11-21",
-    "dateFin": "2026-11-21",
-    "distance": 141502.86,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82684999",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "BT 250 HOMMES MOUSTACHE PERTUIS",
-    "naturesEpreuves": [
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "BEACH",
-    "tournoiInterne": null,
-    "ville": "PERTUIS"
-  },
-  {
-    "club": {
       "code": "62130004",
       "lat": 43.300587,
       "libelle": "TENNIS PARK MARSEILLE",
