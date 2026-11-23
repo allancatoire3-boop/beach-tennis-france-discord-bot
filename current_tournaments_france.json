@@ -24,30 +24,6 @@
   },
   {
     "club": {
-      "code": "62130004",
-      "lat": 43.300587,
-      "libelle": "TENNIS PARK MARSEILLE",
-      "lng": 5.49311
-    },
-    "dateDebut": "2026-11-21",
-    "dateFin": "2026-11-22",
-    "distance": 149753.22,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82689519",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "En novembre, beach au Park",
-    "naturesEpreuves": [
-      "DD",
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "BEACH",
-    "tournoiInterne": null,
-    "ville": "MARSEILLE"
-  },
-  {
-    "club": {
       "code": "62130391",
       "lat": 43.38408,
       "libelle": "TENNIS CLUB PEYPIN",
@@ -166,6 +142,30 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "TOULON"
+  },
+  {
+    "club": {
+      "code": "542B0721",
+      "lat": 42.64291,
+      "libelle": "MARANA BEACH TENNIS",
+      "lng": 9.459971
+    },
+    "dateDebut": "2026-12-12",
+    "dateFin": "2026-12-13",
+    "distance": 6093.206,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82710099",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Beachy Secret Santa",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "FURIANI"
   },
   {
     "club": {
@@ -377,6 +377,30 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "NARBONNE"
+  },
+  {
+    "club": {
+      "code": "57770045",
+      "lat": 48.396294,
+      "libelle": "CHAMPAGNE SUR SEINE TENNIS CLUB",
+      "lng": 2.791817
+    },
+    "dateDebut": "2027-04-02",
+    "dateFin": "2027-04-04",
+    "distance": 192590.42,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82710630",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 1000 - Champagne-Sur-Seine",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "CHAMPAGNE SUR SEINE"
   },
   {
     "club": {
